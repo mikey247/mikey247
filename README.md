@@ -6,7 +6,7 @@ Fullstack developer
 
 I transitioned into Web development after wasting so much time in school, I started out with HTML and CSS and then JavaScript , React, Redux, Material UI, and Bootstrap for frontend development, dabbled in Python and Django for a while, and now currently learning Nodejs/Express and TypeScript.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Lagos,Nigeria
 * ✉️  You can contact me at [michaeljunior794@gmail.com](mailto:michaeljunior794@gmail.com)
 * 🧠  I'm learning TypeScript, NodeJS and Express
 * 🤝  I'm open to collaborating on anything and everything tasking.
