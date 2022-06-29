@@ -1,4 +1,4 @@
-                                                             Hi 👋 My name is Michael Umeokoli
+Hi 👋 My name is Michael Umeokoli
 =================================
 
 Fullstack developer
