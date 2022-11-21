@@ -8,7 +8,7 @@ I transitioned into web development after wasting so much time in school studyin
 
 * 🌍  I'm based in Lagos,Nigeria
 * ✉️  You can contact me at [michaeljunior794@gmail.com](mailto:michaeljunior794@gmail.com) and check out my <a href="http://mikey24-7.xyz">portfolio</a>
-* 🧠  I'm learning TypeScript, NodeJS and Express
+* 🧠  I'm learning TypeScript and Golang
 * 🤝  I'm open to collaborating on anything and everything tasking.
 * ⚡  I listen to all and every type of music, yes even Taylor Swift😂.
 
