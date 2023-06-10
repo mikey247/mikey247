@@ -1,7 +1,7 @@
 Hi 👋 My name is Michael Umeokoli
 =================================
 
-Fullstack developer
+Software Engineer
 -------------------
 
 I transitioned into software engineering after wasting so much time in school studying agriculture to end world hunger😂🤦‍♂️, I started out with HTML and CSS and then JavaScript, React, Redux, Material UI, and Bootstrap for frontend development, dabbled in Python and Django for a while, and now currently settled with Nodejs-Express, Java and Golang.
