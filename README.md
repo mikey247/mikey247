@@ -4,11 +4,11 @@ Hi 👋 My name is Michael Umeokoli
 Fullstack developer
 -------------------
 
-I transitioned into web development after wasting so much time in school studying agriculture to end world hunger😂🤦‍♂️, I started out with HTML and CSS and then JavaScript, React, Redux, Material UI, and Bootstrap for frontend development, dabbled in Python and Django for a while, and now currently settled with Nodejs/Express/TypeScript and Golang.
+I transitioned into web development after wasting so much time in school studying agriculture to end world hunger😂🤦‍♂️, I started out with HTML and CSS and then JavaScript, React, Redux, Material UI, and Bootstrap for frontend development, dabbled in Python and Django for a while, and now currently settled with Nodejs-Express, Java and Golang.
 
 * 🌍  I'm based in Lagos,Nigeria
 * ✉️  You can contact me at [michaeljunior794@gmail.com](mailto:michaeljunior794@gmail.com) and check out my <a href="http://mikey24-7.xyz">portfolio</a>
-* 🧠  I'm learning TypeScript and Golang
+* 🧠  I'm learning Java and Golang
 * 🤝  I'm open to collaborating on anything and everything tasking.
 * ⚡  I listen to all and every type of music, yes even Taylor Swift😂.
 
