@@ -6,7 +6,7 @@ Software Engineer
 
 I transitioned into software engineering after wasting so much time in school studying agriculture to end world hunger😂🤦‍♂️, I started out with HTML and CSS and then JavaScript, React, Redux, Material UI, and Bootstrap for frontend development, and currently settled with Nodejs-Express, Java, and Golang.
 
-* 🌍  I'm based in Manchester, United Kingdom.
+* 🌍  I'm based in Manchester, United Kingdom🇬🇧.
 * ✉️  You can contact me at [michaeljunior794@gmail.com](mailto:michaeljunior794@gmail.com) and check out my <a href="http://mikey24-7.xyz">portfolio</a>
 * 🧠  I'm learning Java and Golang
 * 🤝  I'm open to collaborating on anything and everything tasking.
