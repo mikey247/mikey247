@@ -1,12 +1,12 @@
-Hi 👋 My name is Michael Umeokoli
+Hi 👋 My name is Michael
 =================================
 
 Software Engineer
 -------------------
 
-I transitioned into software engineering after wasting so much time in school studying agriculture to end world hunger😂🤦‍♂️, I started out with HTML and CSS and then JavaScript, React, Redux, Material UI, and Bootstrap for frontend development, dabbled in Python and Django for a while, and now currently settled with Nodejs-Express, Java and Golang.
+I transitioned into software engineering after wasting so much time in school studying agriculture to end world hunger😂🤦‍♂️, I started out with HTML and CSS and then JavaScript, React, Redux, Material UI, and Bootstrap for frontend development, and currently settled with Nodejs-Express, Java, and Golang.
 
-* 🌍  I'm based in Lagos,Nigeria
+* 🌍  I'm based in Manchester, United Kingdom.
 * ✉️  You can contact me at [michaeljunior794@gmail.com](mailto:michaeljunior794@gmail.com) and check out my <a href="http://mikey24-7.xyz">portfolio</a>
 * 🧠  I'm learning Java and Golang
 * 🤝  I'm open to collaborating on anything and everything tasking.
@@ -40,7 +40,7 @@ I transitioned into software engineering after wasting so much time in school st
 
 <b>My GitHub Stats</b>
 
-<!-- <a href="http://www.github.com/mikey247"><img src="https://github-readme-stats.vercel.app/api?username=mikey247&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="mikey247's GitHub stats" /></a> -->
+<a href="http://www.github.com/mikey247"><img src="https://github-readme-stats.vercel.app/api?username=mikey247&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="mikey247's GitHub stats" /></a>
 
 <a href="https://github.com/mikey247" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikey247&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
