@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Manchester, United Kingdom🇬🇧.
 * ✉️  You can contact me at [michaeljunior794@gmail.com](mailto:michaeljunior794@gmail.com) and check out my <a href="http://mikey24-7.xyz">portfolio</a>
 * 🧠  I'm learning  C++ for Arduino, Java and C#.
-* 👷🏾‍♂️  Currently|working with an Energy company to build smart heating solutions.
+* 👷🏾‍♂️  I'm currently working with an energy company to build smart heating solutions.
 * 🤝  I'm open to collaborating on anything and everything tasking.
 * ⚡  I listen to all and every type of music, yes even Taylor Swift😂.
 
