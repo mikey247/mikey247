@@ -6,10 +6,10 @@ Software Engineer
 
 * 🌍  I'm based in Manchester, United Kingdom🇬🇧.
 * ✉️  You can contact me at [michaeljunior794@gmail.com](mailto:michaeljunior794@gmail.com) and check out my <a href="http://mikey24-7.xyz">portfolio</a>
-* 🧠  I'm learning  C++ for microcontrollers(ESP8266 etc.), Java, C# and recently Natural Language Processing with Python.
+* 🧠  I'm learning  C++ for microcontrollers(ESP8266 etc.), and recently High Performance Computing(HPC), and Natural Language Processing with Python.
 * 👷🏾‍♂️  I'm currently working with an energy company to build smart heating solutions.
 * 🤝  I'm open to collaborating on anything and everything tasking.
-* ⚡  I listen to all and every type of music, yes even Taylor Swift😂.
+* ⚡  I listen to every type of music, even Taylor Swift😂.
 
 ### Skills
 
