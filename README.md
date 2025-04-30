@@ -18,7 +18,7 @@
 
 I'm a versatile Software Engineer based in Manchester, UK 🇬🇧, passionate about building high-performance systems and AI-powered applications. Currently pursuing my MSc in Computer Science, I'm working on NLP-based solutions to combat media bias and improve information diversity.
 
-- 🔭 **Current Work:** Developing smart heating solutions with an energy company and building data pipelines at University of Manchester
+- 🔭 **Current Work:** Developing software components, modifying scripts, and programs to align with research teams at the University of Manchester
 - 🎓 **Research:** NLP, Topic Modeling, and Sentiment Analysis for my dissertation
 - 🌱 **Learning:** C++ for microcontrollers (ESP8266), High Performance Computing (HPC), and Natural Language Processing
 - 💡 **Interests:** Low-latency systems, recommender algorithms, energy efficiency, data ethics
