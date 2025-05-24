@@ -124,17 +124,6 @@ I'm a versatile Software Engineer based in Manchester, UK 🇬🇧, passionate a
     </p>
   </div>
 
-  <div class="project-card">
-    <h3>💹 Low-Latency Trading Simulation</h3>
-    <p>
-      Python-based environment for simulating high-frequency trading with optimized order routing and risk management logic.
-    </p>
-    <p>
-      <code>Python</code> <code>Low-Latency</code> <code>High-Performance Computing</code> <code>Trading Systems</code>
-    </p>
-  </div>
-</div>
-
 ## 📈 GitHub Stats
 
 <div class="stats-container">  
