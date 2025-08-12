@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Michael!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Software+Engineer;ML+%26+NLP+Enthusiast;Low-Latency+Systems+Developer;Microcontroller+Tinkerer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Software+Engineer;ML+%26+NLP+Researcher+and+Writer;Low-Latency+Systems+Developer;Microcontroller+Tinkerer" alt="Typing SVG" />
 </div>
 
 <div align="center">
