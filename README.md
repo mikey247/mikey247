@@ -91,39 +91,6 @@ I'm a versatile Software Engineer based in Manchester, UK 🇬🇧, passionate a
   </tr>
 </table>
 
-## 🔭 Featured Projects
-
-<div class="projects-container">
-  <div class="project-card">
-    <h3>📰 Media Bias Analysis System</h3>
-    <p>
-      NLP-based system that extracts topics and analyzes sentiment in news articles to suggest diverse viewpoints. Uses LDA for topic modeling and provides alternative perspectives through a React+FastAPI application.
-    </p>
-    <p>
-      <code>Python</code> <code>NLP</code> <code>React</code> <code>FastAPI</code> <code>Topic Modeling</code>
-    </p>
-  </div>
-
-  <div class="project-card">
-    <h3>🎬 Hybrid Recommender System</h3>
-    <p>
-      Built for OFCOM to demonstrate algorithm personalization, combining content-based (TF-IDF) and collaborative filtering (SVD) approaches with a React frontend and FastAPI backend.
-    </p>
-    <p>
-      <code>Python</code> <code>React</code> <code>FastAPI</code> <code>Machine Learning</code> <code>Recommender Systems</code>
-    </p>
-  </div>
-
-  <div class="project-card">
-    <h3>🔥 Smart Heating Control</h3>
-    <p>
-      Embedded C++ solution for microcontrollers that optimizes energy consumption while maintaining comfort, with MQTT integration for remote monitoring and control.
-    </p>
-    <p>
-      <code>C++</code> <code>Microcontrollers</code> <code>MQTT</code> <code>IoT</code> <code>Energy Efficiency</code>
-    </p>
-  </div>
-
 ## 📈 GitHub Stats
 
 <div class="stats-container">  
