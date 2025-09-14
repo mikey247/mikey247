@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-mikey24--7.xyz-10B981?style=for-the-badge&logo=About.me&logoColor=white)](http://mikey24-7.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=About.me&logoColor=white)](https://linktr.ee/notmikey247)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaeljunior794@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-umeokoli/)
   
